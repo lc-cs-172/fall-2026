@@ -6,7 +6,7 @@ Welcome to CS 172!
 
 This is a group, pen-and-paper activity.
 
-You goal is to design a text-based ATM program that handles user PIN
+Your goal is to design a text-based ATM program that handles user PIN
 authentication, balance inquiries, cash deposits, and cash withdrawals.
 
 Below is a sample interaction with the ATM program.
