@@ -4,7 +4,7 @@
 
 Lewis & Clark College, Fall 2026  
 CS 172, Section 01  
-Monday/Wednesday/Friday 10:30-11:20 AM  
+Monday/Wednesday/Friday 10:20-11:20 AM  
 Olin 305
 
 **Google classroom:** I will use
