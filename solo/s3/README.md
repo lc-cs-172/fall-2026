@@ -27,6 +27,8 @@ in the previous assignment that return a value or alter the content of an array.
 3. Understand how to configure and to run unit tests from an integrated
    development environment such as Visual Studio Code.
 
+4. Understand the limits of unit testing.
+
 ## Core concepts
 
 * **Unit testing**. Unit testing tests individual parts of the program (e.g.,
@@ -34,7 +36,9 @@ in the previous assignment that return a value or alter the content of an array.
   First, it can happen a lot earlier, before the entire system has been built.
   This is important because it gives you a chance to fix one bug before
   introducing the next one. Second, if a bug is found, unit testing gives a
-  strong indication of where it is.
+  strong indication of where it is. Not all functions are amenable to unit
+  testing. For instance, functions with certain side effects (e.g., graphics
+  function to draw a line) may require a different testing strategy.
 
 * **Test-driven development**. Test-driven development is a software development
   technique that involves (1) identifying a feature, (2) for that feature, write
