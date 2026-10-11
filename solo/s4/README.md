@@ -34,7 +34,7 @@ finally get to write the complete program.
 2. Describe the Test-driven Development (TDD) strategy and list the specific
    steps mandated by this approach.
 
-3. Explain how ab Integrated Development Environment (IDE) such as Visual Studio
+3. Explain how an Integrated Development Environment (IDE) such as Visual Studio
    Code supports TDD.
 
 4. Write code following typical Python conventions including use of good names
