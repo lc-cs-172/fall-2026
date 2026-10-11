@@ -81,6 +81,7 @@ Rubric        | Description                                  | Scale
 Functionality | The program implements the required features | 0-3
 Style         | The program adheres to Python conventions    | 0-3
 Comments      | The program is sufficiently documented       | 0-3
+Tests         | The unit tests pass                          | 0-3
 
 Points | Description
 -|-
