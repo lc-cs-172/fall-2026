@@ -54,7 +54,7 @@ With this definition, we are now in position to create many *instances* (or
 *objects*) of this class (or type) as follows:
 
 ```python
-earth = Body(5.972e14, 0., 0.)
+earth = Body(5.972e24, 0., 0.)
 moon = Body(7.348e22, 384400., 0.)
 ```
 
