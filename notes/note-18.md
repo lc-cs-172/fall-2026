@@ -23,9 +23,9 @@ def str_to_int(digits : str, base : int = 10):
 This function can be called in the following ways.
 
 ```python
-str_to_int(1010, 10)  # Explicitly specify the base
-str_to_int(1010)      # Use the default value for the base (10)
-str_to_int(1010, 2)   # Use an alternate base
+str_to_int('1010', 10)  # Explicitly specify the base
+str_to_int('1010')      # Use the default value for the base (10)
+str_to_int('1010', 2)   # Use an alternate base
 ```
 
 Optional arguments can be used for any functions including those defined inside
