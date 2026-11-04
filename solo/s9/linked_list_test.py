@@ -2,7 +2,7 @@
 
 __author__ = 'Peter Drake and Alain Kägi'
 
-#from linked_list import LinkedList
+from linked_list import LinkedList
 
 def test_is_initially_empty():
     list = LinkedList()

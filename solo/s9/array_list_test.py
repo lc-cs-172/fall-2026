@@ -2,7 +2,7 @@
 
 __author__ = 'Peter Drake and Alain Kägi'
 
-#from array_list import ArrayList
+from array_list import ArrayList
 
 def test_is_initially_empty():
     list = ArrayList()
