@@ -17,7 +17,6 @@ Method                 | Definition
 `remove_at(self, i)`   | Removes the element at position `i`.
 `set(self, i, item)`   | Replaces the element at position `i` with `item`.
 `__repr__(self)`       | Returns a string representing an "official" content of the list.
-`__str__(self)`        | Returns a string representing an "informal" content of the list.
 `__eq__(self, other)`  | Returns `True` if the lists are equal.
 `__len__(self)`        | Returns the number of elements in the list.
 `__iter__(self)`       | Returns an iterator for the content of the list.
