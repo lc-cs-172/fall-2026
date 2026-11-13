@@ -13,6 +13,7 @@ capabilities:
 
 For simplicity, we will make the following assumptions:
 
+* An expression must be appear on its own line.
 * All expressions are valid (e.g., we don't need to check for mismatched
   parentheses).
 * An expression is either an operand or a left parenthesis followed by an
@@ -20,6 +21,7 @@ For simplicity, we will make the following assumptions:
   a right parenthesis.
 * Operators, parentheses, and operands are separated by at least one space.
 * An uninitialized variable returns the value `0`.
+* Integer literals must be non-negative.
 
 Here is an example interaction:
 
