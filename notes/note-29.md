@@ -22,6 +22,7 @@ For simplicity, we will make the following assumptions:
 * Operators, parentheses, and operands are separated by at least one space.
 * An uninitialized variable returns the value `0`.
 * Integer literals must be non-negative.
+* A variable is a non-empty string of lowercase letters only (e.g., 'a', 'aa').
 
 Here is an example interaction:
 
