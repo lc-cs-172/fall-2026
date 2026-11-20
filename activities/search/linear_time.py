@@ -1,15 +1,13 @@
 """Measure the time its take to compute some function."""
 
-from itertools import accumulate
-import random
 import time
 from linear import search
 
 def time_search(n : int) -> float:
     """Run a doubling experiment."""
-    xs = list(accumulate(random.randint(1, 10) for _ in range(n)))
+    xs = [i for i in range(n)]
     start = time.time()
-    search(xs, -1)
+    search(xs, xs[-1])
     end = time.time()
     return end - start
 
